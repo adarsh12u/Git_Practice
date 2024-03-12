@@ -1,8 +1,8 @@
 hello guys
 hello
 hello adarsh
-<<<<<<< HEAD
+
 hello adarsh
-=======
+
 loki
->>>>>>> ae2cf5c92eb413e2c2babd8904915aace6b7f75d
+
